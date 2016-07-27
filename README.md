@@ -3,5 +3,6 @@ go-soundcloud-api
 
 Go Wrapper for Soundcloud API
 
-Also find more here: http://blog.rileedesign.com/beginning-go-and-soundcloud
-And here: http://blog.rileedesign.com/more-go-and-soundcloud
+Also find more here: https://blog.rjdlee.com/beginning-go-and-soundcloud/
+
+And here: https://blog.rjdlee.com/upload-and-manage-soundcloud-with-go-2/
